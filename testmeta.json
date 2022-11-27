@@ -5,9 +5,11 @@
     "separator": ";",
     "skip": 0,
     "meta": [
-        { "type": "id", "index": 0, "name": "ID" }
+        { "type": "id", "index": 0, "name": "ID" },
+        { "type": "integer", "index": 1, "name": "HR" } 
     ],    
     "sets": [
         { "format": "binary", "start": 2, "end": 37 }
     ]
 }
+
