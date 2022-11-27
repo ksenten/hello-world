@@ -1,7 +1,7 @@
 ID;HR;HR_CI_lower_;HR_CI_upper_;N_total;N_case;N_control;Beta;Beta_CI_lower_;Beta_CI_Upper;S_E_;Z;p_value;Significance_C;t;SD;r2;r;OR;OR_CI_lower_;OR_CI_upper_;MeanEAA_control;MeanEAA_Case;MeanEAAdiff_All;Pearson_Correlation;Pearson_CI_lower;Pearson_CI_higher;Spearman_s_Rho;Cohen_s_d;MAE_case_;MAE_control_;MSE;Median_error_case_;Median_error_control_RR_rate_ratio_;RR_CI_lower_;RR_CI_upper_
 PUB240;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 PUB001;0;0;0;1;1;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-PUB002;0;0;0;1;0;0;0;0;0;0;0;0;0;0;"NA";0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+PUB002;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
 PUB003;0;0;0;1;1;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 PUB005;0;0;0;1;1;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
 PUB006;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
