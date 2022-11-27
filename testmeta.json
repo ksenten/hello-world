@@ -1,0 +1,13 @@
+{
+    "file": "https://raw.githubusercontent.com/ksenten/hello-world/master/test",
+    "name": "Test - GitHub",
+    "header": 0,
+    "separator": ";",
+    "skip": 0,
+    "meta": [
+        { "type": "id", "index": 0, "name": "ID" },
+    ],    
+    "sets": [
+        { "format": "binary", "start": 2, "end": 37 }
+    ]
+}
