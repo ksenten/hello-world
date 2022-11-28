@@ -15,9 +15,10 @@
 		{ "type": "float", "index": 15, "name": "Beta", "min": -4.55, "max": 8.19 },
 		{ "type": "float", "index": 20, "name": "p_value", "min": 0.0000012, "max": 0.98 },
 		{ "type": "float", "index": 25, "name": "t", "min": 0.04, "max": 0.954 }
-
 	],
 	"sets": [
 		{ "format": "binary", "start": 2, "end": 6 }
-	]
+	],
+	"author": "XP"
 }
+
