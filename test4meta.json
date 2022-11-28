@@ -1,0 +1,23 @@
+{
+	"file": "https://raw.githubusercontent.com/ksenten/hello-world/master/test4.csv",
+	"name": "Test2-XP",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "ID" },
+		{ "type": "string", "index": 1, "name": "Clock_C" },
+		{ "type": "string", "index": 7, "name": "Factor_refined" },
+		{ "type": "string", "index": 8, "name": "Factor_category" },
+		{ "type": "float", "index": 12, "name": "N.total", "min": 8, "max": 4260 },
+		{ "type": "float", "index": 13, "name": "N.case", "min": 7, "max": 365 },
+		{ "type": "float", "index": 14, "name": "N.control", "min": 10, "max": 722 },
+		{ "type": "float", "index": 15, "name": "Beta", "min": -4.55, "max": 8.19 },
+		{ "type": "float", "index": 20, "name": "p_value", "min": 0.0000012, "max": 0.98 },
+		{ "type": "float", "index": 25, "name": "t", "min": 0.04, "max": 0.954 }
+
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 6}
+	]
+}
