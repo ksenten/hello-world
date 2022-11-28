@@ -18,6 +18,6 @@
 
 	],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 6}
+		{ "format": "binary", "start": 2, "end": 6 }
 	]
 }
