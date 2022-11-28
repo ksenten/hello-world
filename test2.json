@@ -1,0 +1,16 @@
+{
+	"file": "https://raw.githubusercontent.com/ksenten/hello-world/master/test2.csv",
+	"name": "Test2-XP",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" },
+		{ "type": "id", "index": 1, "name": "Clock_C" },
+		{ "type": "id", "index": 2, "name": "Factor_refined" },
+		{ "type": "id", "index": 3, "name": "Factor_category" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 4, "end": 39 }
+	]
+}
