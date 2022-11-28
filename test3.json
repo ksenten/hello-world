@@ -5,11 +5,10 @@
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Name" },
 		{ "type": "float", "index": 4, "name": "HR", "min": 1, "max": 120 },
 		{ "type": "float", "index": 5, "name": "HR_CI_lower_", "min": 0.2, "max": 3 }
 	],
 	"sets": [
-		{ "format": "binary", "start": 0, "end": 3}
+		{ "format": "id", "start": 0, "end": 3}
 	]
 }
