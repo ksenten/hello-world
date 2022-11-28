@@ -6,6 +6,7 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "ID" },
+		{ "type": "id", "index": 1, "name": "Clock_C" },
 		{ "type": "string", "index": 7, "name": "Factor_refined" },
 		{ "type": "string", "index": 8, "name": "Factor_category" },
 		{ "type": "float", "index": 12, "name": "N.total", "min": 8, "max": 4260 },
@@ -17,6 +18,6 @@
 
 	],
 	"sets": [
-		{ "format": "string", "index": 1}
+		{ "format": "string", "start": 2, "end": 6}
 	]
 }
